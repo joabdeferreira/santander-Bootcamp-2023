@@ -1,0 +1,25 @@
+{
+  "name": "Joab",
+  "account": {
+    "number": "000000000-0",
+    "agency": "0000",
+    "balance": 8000.0,
+    "limit": 500.0
+  },
+  "features":[
+    {
+      "icon": "",
+      "description": "PIX"
+    }
+  ],
+  "card": {
+    "number": "0000-0000-0000-0000",
+    "limit": 500.0
+  },
+  "news": [
+    {
+      "icon": "URL",
+      "description": "Descrição da novidade"
+    }
+  ]
+} 
