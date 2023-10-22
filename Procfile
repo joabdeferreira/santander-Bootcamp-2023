@@ -1,0 +1,1 @@
+web: java -jar build/libs/Santander.Bootcamp-0.0.1-SNAPSHOT.jar
